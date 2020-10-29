@@ -141,6 +141,9 @@ http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/6015
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/5935
 #EXTINF:-1 tvg-id="MX COMEDY CENTRAL" tvg-name="Comedy Central Full HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/comedycentral.png" group-title="Entretenimiento",COMEDY CENTRAL
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/108
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/tntserieshd.png" group-title="Entretenimiento",TNT Series HD
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/132
+
 
 
 
