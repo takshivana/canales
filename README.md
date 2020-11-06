@@ -1,11 +1,9 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-id="CL 24 HORAS" tvg-name="24 Horas HD" tvg-logo="http://logos.iptv.wtf/chile/24horas.png" group-title="Noticias",24 Horas HD
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/2109
 #EXTINF:-1 tvg-id="CL CNN CHILE" tvg-name="CNN Chile HD" tvg-logo="http://logos.iptv.wtf/chile/cnnchile.png" group-title="Noticias",CNN Chile HD
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/7464
-
 #EXTINF:-1 tvg-id="CL MEGA PLUS" tvg-name="CL: Mega Plus Full HD" tvg-logo="http://logos.iptv.wtf/chile/megaplus.png" group-title="nacional", Mega Plus Full HD
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/1644
 #EXTINF:-1 tvg-id="CL 13C" tvg-name="CL: 13C Full HD" tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="nacional", 13C Full HD
@@ -20,8 +18,6 @@ http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/1
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/5
 #EXTINF:-1 tvg-id="CL CANAL 13" tvg-name="CL: Canal 13 Full HD" tvg-logo="http://logos.iptv.wtf/chile/canal13.png" group-title="nacional", Canal 13 Full HD
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/3
-
-
 #EXTINF:-1 tvg-id="" tvg-name="CL: TV Educa Chile HD" tvg-logo="" group-title="Infantiles", TV Educa Chile HD
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/10501
 #EXTINF:-1 tvg-id="CL DISNEY CHANNEL" tvg-name="CL: Disney Channel Full HD" tvg-logo="http://logos.iptv.wtf/infantiles/disneychannel.png" group-title="Infantiles", Disney Channel Full HD
@@ -44,7 +40,6 @@ http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/6038
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/5851
 #EXTINF:-1 tvg-id="MX NAT GEO KIDS" tvg-name="Natgeo Kids" tvg-logo="http://logos.iptv.wtf/infantiles/natgeokids.png" group-title="Infantiles",Natgeo Kids
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/3344
-
 #EXTINF:-1 tvg-id="CL ANIMAL PLANET" tvg-name="Animal Planet Full HD" tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png" group-title="Culturales",Animal Planet Full HD
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/8887
 #EXTINF:-1 tvg-id="CL NATGEO" tvg-name="NatGeo Full HD" tvg-logo="http://logos.iptv.wtf/culturales/natgeo.png" group-title="Culturales",NatGeo Full HD
@@ -69,7 +64,6 @@ http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/9034
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/9531
 #EXTINF:-1 tvg-id="CO H2 HD" tvg-name="H2 Full HD" tvg-logo="http://logos.iptv.wtf/culturales/history2.png" group-title="Culturales",H2 Full HD
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/8866
-
 #EXTINF:-1 tvg-id="CL FOX" tvg-name="Fox Full HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/fox.png" group-title="Entretenimiento",Fox Full HD
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/89
 #EXTINF:-1 tvg-id="MX E" tvg-name="E! Full HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/e.png" group-title="Entretenimiento",E! Full HD
@@ -116,3 +110,97 @@ http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/6011
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/67
 #EXTINF:-1 tvg-id="" tvg-name="Golden Premier Full HD" tvg-logo="" group-title="Entretenimiento",Golden Premier Full HD
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/5887
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/271
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Avatar: la leyenda de Aang" tvg-logo="" group-title="24/7",24/7 Avatar: la leyenda de Aang
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/272
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Avatar: la leyenda de Korra" tvg-logo="" group-title="24/7",24/7 Avatar: la leyenda de Korra
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/273
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10" tvg-logo="" group-title="24/7",24/7 Ben 10
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/274
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10: Omniverse" tvg-logo="" group-title="24/7",24/7 Ben 10: Omniverse
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/275
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bewitched Hechizada" tvg-logo="" group-title="24/7",24/7 Bewitched Hechizada
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/276
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bob Esponja" tvg-logo="" group-title="24/7",24/7 Bob Esponja
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/277
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bobs Burgers" tvg-logo="" group-title="24/7",24/7 Bobs Burgers
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/278
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caballeros del zodiaco" tvg-logo="" group-title="24/7",24/7 Caballeros del zodiaco
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/279
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado HD" tvg-logo="" group-title="24/7",24/7 Caso Cerrado HD
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/280
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado HD *" tvg-logo="" group-title="24/7",24/7 Caso Cerrado HD *
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/281
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cat-Dog" tvg-logo="" group-title="24/7",24/7 Cat-Dog
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/282
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Coraje el perro cobarde" tvg-logo="" group-title="24/7",24/7 Coraje el perro cobarde
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/283
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Danny Phantom" tvg-logo="" group-title="24/7",24/7 Danny Phantom
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/284
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dave el Barbaro" tvg-logo="" group-title="24/7",24/7 Dave el Barbaro
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/285
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon Adventure" tvg-logo="" group-title="24/7",24/7 Digimon Adventure
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/286
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dr. House" tvg-logo="" group-title="24/7",24/7 Dr. House
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/287
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super HD" tvg-logo="" group-title="24/7",24/7 Dragon Ball Super HD
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/288
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super HD *" tvg-logo="" group-title="24/7",24/7 Dragon Ball Super HD *
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/289
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ed Edd y Eddy" tvg-logo="" group-title="24/7",24/7 Ed Edd y Eddy
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/290
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El chavo del 8" tvg-logo="" group-title="24/7",24/7 El chavo del 8
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/291
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Coyote y el Correcaminos" tvg-logo="" group-title="24/7",24/7 El Coyote y el Correcaminos
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/292
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El laboratorio de Dexter" tvg-logo="" group-title="24/7",24/7 El laboratorio de Dexter
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/293
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe del Rap" tvg-logo="" group-title="24/7",24/7 El Príncipe del Rap
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/294
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El tunel del tiempo" tvg-logo="" group-title="24/7",24/7 El tunel del tiempo
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/295
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fantasias animadas de ayer y hoy" tvg-logo="" group-title="24/7",24/7 Fantasias animadas de ayer y hoy
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/296
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Futurama HD" tvg-logo="" group-title="24/7",24/7 Futurama HD
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/297
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gravity Falls HD" tvg-logo="" group-title="24/7",24/7 Gravity Falls HD
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/298
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold *" tvg-logo="" group-title="24/7",24/7 Hey Arnold *
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/299
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jimmy Neutron" tvg-logo="" group-title="24/7",24/7 Jimmy Neutron
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/300
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Johnny Bravo" tvg-logo="" group-title="24/7",24/7 Johnny Bravo
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/301
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La familia Addams" tvg-logo="" group-title="24/7",24/7 La familia Addams
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/302
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia Monster" tvg-logo="" group-title="24/7",24/7 La Familia Monster
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/303
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa" tvg-logo="" group-title="24/7",24/7 La pantera rosa
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/304
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La vaca y el pollito" tvg-logo="" group-title="24/7",24/7 La vaca y el pollito
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/305
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los 3 Chiflados" tvg-logo="" group-title="24/7",24/7 Los 3 Chiflados
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/306
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson HD" tvg-logo="" group-title="24/7",24/7 Los Simpson HD
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/307
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson T01-T15" tvg-logo="" group-title="24/7",24/7 Los Simpson T01-T15
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/308
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson T1-T2" tvg-logo="" group-title="24/7",24/7 Los Simpson T1-T2
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/8274
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson T16-T27" tvg-logo="" group-title="24/7",24/7 Los Simpson T16-T27
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/309
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Supersonicos" tvg-logo="" group-title="24/7",24/7 Los Supersonicos
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/310
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm HD" tvg-logo="" group-title="24/7",24/7 Malcolm HD
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/311
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mi Bella Genio" tvg-logo="" group-title="24/7",24/7 Mi Bella Genio
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/312
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro" tvg-logo="" group-title="24/7",24/7 Pinky y Cerebro
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/313
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory" tvg-logo="" group-title="24/7",24/7 The Big Bang Theory
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/314
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Thundercats" tvg-logo="" group-title="24/7",24/7 Thundercats
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/315
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom y Jerry" tvg-logo="" group-title="24/7",24/7 Tom y Jerry
+http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/316
