@@ -204,3 +204,5 @@ http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/314
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/315
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Tom y Jerry" tvg-logo="" group-title="24/7",24/7 Tom y Jerry
 http://live.iptv.wtf:80/qyqokvsv/x2W6X44sls/316
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sakura Card Captor" tvg-logo="https://1.bp.blogspot.com/-rGrm05-RVpE/VZU2su1gT4I/AAAAAAAACMY/Ksk7MZPktEc/s1600/sakura-card-captor.jpg" group-title="LAT - Canales 24H",24/7 Sakura Card Captor
+http://tvla.live:8080/3ZD3fshZ2F/5yMSjpBgJR/34297
